@@ -20,9 +20,7 @@ Link to privacy policy of third party service providers used by the app
 *   [Appmetrica](https://yandex.ru/legal/confidential/?lang=en)
 *   [Unity](https://unity3d.com/legal/privacy-policy)
 *   [Appodeal](https://appodeal.com/privacy-policy/)
-*   [Vungle](https://vungle.com/privacy/)
 *   [Yandex](https://yandex.ru/legal/confidential/?lang=en)
-*   [BidMachine](https://bidmachine.io/privacy-policy/)
 
 **Log Data**
 
@@ -61,7 +59,7 @@ These Services do not address anyone under the age of 13. I do not knowingly col
 
 I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
 
-This policy is effective as of 2022-06-28
+This policy is effective as of 2023-04-24
 
 **Contact Us**
 
